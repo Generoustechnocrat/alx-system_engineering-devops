@@ -1,1 +1,1 @@
- A file about multiple permission
+give permission to everybody
