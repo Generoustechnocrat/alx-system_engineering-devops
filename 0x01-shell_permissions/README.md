@@ -1,1 +1,1 @@
-permission for execution
+permission one
