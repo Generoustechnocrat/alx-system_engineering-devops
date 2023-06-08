@@ -1,1 +1,1 @@
-give permission to everybody
+no permission at all
