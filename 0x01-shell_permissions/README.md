@@ -1,1 +1,1 @@
-permission one
+multiple permission
