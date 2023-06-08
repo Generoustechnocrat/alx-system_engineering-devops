@@ -1,1 +1,1 @@
-multi permit
+ A file about multiple permission
