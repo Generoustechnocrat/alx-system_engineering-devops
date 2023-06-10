@@ -1,1 +1,1 @@
-Displaying the first ten lines of the file
+ A script that displays the line
